@@ -9,13 +9,13 @@
 |Email: | acarthur@ust.hk |
 |Office Hours | By Appointment |
 |Class Website:  |http://canvas.ust.hk/ |
-|TA:| Vincent LEUNG |
-| --- | --- |
+| | |
+|__TA:__| __Vincent LEUNG__ |
 |Office: | |
 |Email: | vincentltm@ust.hk |
 |Office Hours | TBA |
-|Sections: | Times and Locations | 
-| --- | --- |
+|  | |
+|__Sections:__ | __Times and Locations__ | 
 | L13: | Monday/Wednesday 09:00 - 10:20 |
 |       | Room: TBD |
 |       | Zoom: TBD |
