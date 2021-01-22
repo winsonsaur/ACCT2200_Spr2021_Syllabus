@@ -25,3 +25,16 @@
 | L13: | Monday/Wednesday 12:00 - 13:20 |
 |       | Room: TBD |
 |       | Zoom: TBD |
+
+
+# Course Objectives
+
+Upon the completion of this course, you should be able to:
+
+1. Explain the role of managerial accounting information in the decision-making process of business and non-for-profit organizations. 
+
+2. Apply the analytical and technical skills developed in the accounting classes you have taken to date to prepare accounting records and reports, interpret them, and explain their limitations. 
+
+3. Discuss the fundamental principles underlying managerial accounting in the context of the tools and techniques that are covered in the course. 
+
+4. Evaluate available accounting information and provide recommendations with respect to a business decision. 
