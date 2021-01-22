@@ -38,3 +38,11 @@ Upon the completion of this course, you should be able to:
 3. Discuss the fundamental principles underlying managerial accounting in the context of the tools and techniques that are covered in the course. 
 
 4. Evaluate available accounting information and provide recommendations with respect to a business decision. 
+
+# Textbook and Supplementary Readings
+
+1.	Whitecotton, Libby, Phillips. Managerial Accounting, 4th Edition (2020), McGraw-Hill/Irwin. (Required) 
+Both the hardcopy and the Vitalsource e-code version (ISBN: 9781260569629) are acceptable. 
+
+2.  PowerPoint slides and documents are posted on Canvas (http://canvas.ust.hk/).
+
