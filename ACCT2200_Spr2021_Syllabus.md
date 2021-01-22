@@ -74,7 +74,14 @@ The textbook provides a conceptual foundation for the course by introducing the 
 
 __Canvas Discussion Participation:__ 5% of your grade will be based on your regular participation on the Canvas discussion board for each chapter. You should post meaningful questions when you have them and help answer other student’s questions. _Please note that participation in chat’s during Zoom, or live lectures, is not required and does not contribute to this score. We are using Canvas for class participation so that student’s in different time zones can participate._
 
-_All quizzes will be conducted as follows: Students will log in to Zoom by following the link posted on Canvas at 18:00, and should work in front of the zoom camera with their work visible until the exam is complete. Exams must be completed by 7:00 at which time you will have ten minutes to submit scans/photos of your answers. You may submit early if you have completed the quiz. Quizzes will not be accepted from those who do not log in to Zoom from 18:00 until they complete the exam. NO make-ups will be given for quizzes._
+__Quizzes:__ The quizzes will be conducted using Canvas and Zoom during class. You will only have access to the quiz during class time. You will see questions one at a time. 
+_All quizzes will be conducted as follows: Students will log in to Zoom by following the link posted on Canvas at the beginning of their assigned section meeting time, and should work in front of the zoom camera with their work visible until the exam is complete. Exams must be completed by the end of class, at which time you will have ten minutes to submit scans/photos of your answers. You may submit early if you have completed the quiz. Quizzes will not be accepted from those who do not log in to Zoom from 18:00 until they complete the exam. NO make-ups will be given for quizzes._
+
+Note the following facts about the exam: 
+
+  1. There are about 40 questions on each exam, they are presented in a random order and each question is selected from a bank of six similar questions. 
+  2. Ignoring order there are $6^{40}$ possible sets of answers, there are 40! (a number greater than $10^47$) possible orders for the questions. 
+  3. The individual questions are not meant to be difficult, but you only have about 2 minutes per question. Work quickly, and move on if you can't answer the question. 
 
 # Grading Scale:
 
