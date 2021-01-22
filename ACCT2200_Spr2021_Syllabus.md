@@ -8,13 +8,12 @@
 |Office: | Room 6049 (LSK Business Building)|
 |Email: | acarthur@ust.hk |
 |Office Hours | By Appointment |
-
+|Class Website:  |http://canvas.ust.hk/ |
 |TA:| Vincent LEUNG |
 | --- | --- |
 |Office: | |
 |Email: | vincentltm@ust.hk |
 |Office Hours | TBA |
-
 |Sections: | Times and Locations | 
 | --- | --- |
 | L13: | Monday/Wednesday 09:00 - 10:20 |
