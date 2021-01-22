@@ -1,3 +1,4 @@
+_Preliminary until start of semester_
 # Course Syllabus: ACCT2200 – Principles of Accounting II
 ## HKUST Department of Accounting
 
