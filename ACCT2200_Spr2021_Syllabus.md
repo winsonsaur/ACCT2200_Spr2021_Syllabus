@@ -1,3 +1,7 @@
-# ACCT2200 – Principles of Accounting II 
+# Course Syllabus: ACCT2200 – Principles of Accounting II 
 ## HKUST Department of Accounting
-# Course Syllabus – L12, L13, L14, Spring 2020
+
+|Instructor:| Dr. Arthur Morris |
+|Office:| Room 6049 (LSK Business Building)|
+|Email:| acarthur@ust.hk |
+|Sections: | L13: Monday/Wednesday 9:30AM - 11:50AM|
