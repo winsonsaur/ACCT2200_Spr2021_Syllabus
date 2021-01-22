@@ -23,7 +23,7 @@ _Preliminary until start of semester_
 | L12: | Monday/Wednesday 10:30 - 11:50 |
 |       | Room: TBD |
 |       | Zoom: TBD |
-| L13: | Monday/Wednesday 12:00 - 13:20 |
+| L14: | Monday/Wednesday 12:00 - 13:20 |
 |       | Room: TBD |
 |       | Zoom: TBD |
 
