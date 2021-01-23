@@ -75,14 +75,14 @@ The textbook provides a conceptual foundation for the course by introducing the 
 
 __Canvas Discussion Participation:__ 5% of your grade will be based on your regular participation on the Canvas discussion board for each chapter. You should post meaningful questions when you have them and help answer other student’s questions. _Please note that participation in chat’s during Zoom, or live lectures, is not required and does not contribute to this score. We are using Canvas for class participation so that student’s in different time zones can participate._
 
-__Quizzes:__ The quizzes will be conducted using Canvas and Zoom during class. You will only have access to the quiz during class time. You will see questions one at a time. 
+__Quizzes:__ The quizzes will be conducted using Canvas and Zoom during class. You will only have access to the quiz during class time. You will see questions one at a time.
 _All quizzes will be conducted as follows: Students will log in to Zoom by following the link posted on Canvas at the beginning of their assigned section meeting time, and should work in front of the zoom camera with their work visible until the exam is complete. Exams must be completed by the end of class, at which time you will have ten minutes to submit scans/photos of your answers. You may submit early if you have completed the quiz. Quizzes will not be accepted from those who do not log in to Zoom from 18:00 until they complete the exam. NO make-ups will be given for quizzes._
 
-Note the following facts about the exam: 
+Note the following facts about the exam:
 
-  1. There are about 40 questions on each exam, they are presented in a random order and each question is selected from a bank of six similar questions. 
-  2. Ignoring order there are $6^{40}$ possible sets of answers, there are 40! (a number greater than $10^47$) possible orders for the questions. 
-  3. The individual questions are not meant to be difficult, but you only have about 2 minutes per question. Work quickly, and move on if you can't answer the question. 
+  1. There are about 40 questions on each exam, they are presented in a random order and each question is selected from a bank of six similar questions.
+  2. Ignoring order there are $6^{40}$ possible sets of answers, there are 40! (a number greater than $10^47$) possible orders for the questions.
+  3. The individual questions are not meant to be difficult, but you only have about 2 minutes per question. Work quickly, and move on if you can't answer the question.
 
 # Grading Scale:
 
@@ -112,22 +112,33 @@ __Note that your grade only depends on you. There is no curve.__
 
 # Course Schedule
 
-|     Dates      (Sessions)                               |     Chapter     No.    |     Topic                                           |     Practice Problems      (Recommended)                   |   |
-|---------------------------------------------------------|------------------------|-----------------------------------------------------|------------------------------------------------------------|---|
-|     Feb.   1      (1)                                   |     1                  |     Introduction to   Managerial Accounting         |     E1-1, 4, 5, 10, 13; PA1-4      (E1-4, PA1-4)           |   |
-|     Feb.   3 & 8      (2,3)                             |     2                  |     Job Order Costing                               |     E2-26; PA2-1, 2; PB2-5, 8      (E2-26, PB2-5)          |   |
-| __No class on Feb. 15__                                 |                        |                                                     |                        |  |
-|     Feb.   17, 22      (4,   5)                         |     3                  |     Process Costing                                 |     PB3-1, 2, 3, 4, 5, 6      (PB3-3, PB3-6)               |   |
-|     Feb.   24, Mar. 1       (6,   7)                    |     4                  |     Activity-Based Costing and Cost Management      |     E4-15, 18; PB4-1, 2, 3,   4      (E4-18;   PB4-4)      |   |
-|     Mar.   3, 8      (8,   9)                           |     5                  |     Cost Behavior                                   |     PB5-1, 2, 3, 4, 5, 6     (PB5-3,   6)                  |   |
-|     Mar.  15, 17      (10, 11)                          |     6                  |     Cost-Volume-Profit   Analysis                   |      PB6-1,   2, 3, 4, 5, 6     (PB5-3,   6)               |   |
-|     Mar.  22, 24      (12, 13)                          |     7                  |     Incremental Analysis for ST Decision Making     |     PB7-1, 2, 3, 4, 6     (PB5-3,   6)                     |   |
-|     Mar. 29     In class   Location: Zoom               |                        |     Quiz 1 (Covers Chapters 1-7)                    |     Practice Quiz    |   |
-| __No class on Mar. 31 and Apr 5.__                      |                        |                                                     |                                    | |
-|     Apr.   7     (15)                                   |                        |     Practice Case Exam (Final)                      |                                                            |   |
-|     Apr.   12 & 14     (16,   17)                       |     8                  |     Budgetary   Planning                            |     PB8-1, 2, 3,   4, 5, 6     (PB8-3,6)                   |   |
-|     Apr.   19, 21      (18,   19)                       |     9                  |     Standard   Costing and Variances                |     PB9-1,   2, 4, 5, 7     (PB9-2,   7)                   |   |
-|     Apr.   26      (20)                            |     10                 |     Decentralized   Performance Evaluation                |     PB10-1, 2, 3, 4, 5     (PB10-3, 5)                     |   |
-|     Apr.   28     (22)                                   |     11                 |     Capital   Budgeting                             |     PB11-1, 2, 4, 5, 7     (PB11-2, 7)                     |   |
-|     May. 3  In class      Location: Zoom          |                        |     Quiz 4 (Covers Chapters   8-11)                        |                                                            |   |
-|     May. 5  In class      Location: Zoom          |                        |     Final Case Exam                                        |                                                            |   |
+| Dates   |(Sessions)        | Chapter # | Topic                                      | Practice Problems         | (Recommended)    |
+| ------- | ---------------- | --------- | ------------------------------------------ | ------------------------- | ---------------- |
+| Feb. 1  | (1)              | 1         | Introduction to   Managerial Accounting    | E1-1, 4, 5, 10, 13; PA1-4 | (E1-4, PA1-4)    |
+| Feb. 3  | (2)              | 2         | Job Order Costing                          | E2-26; PA2-1, 2; PB2-5, 8 | (E2-26, PB2-5)   |
+| Feb. 8  | (3)              | 2         | Job Order Costing                          | E2-26; PA2-1, 2; PB2-5, 8 | (E2-26, PB2-5)   |
+| Feb. 10 | (4)              | 3         | Process Costing                            | PB3-1, 2, 3, 4, 5, 6      | (PB3-3, PB3-6)   |
+| (No class on Feb. 15th) |  |           |                                            |                           |                  |
+| Feb. 17 | (5)              | 3         | Process Costing                            | PB3-1, 2, 3, 4, 5, 6      | (PB3-3, PB3-6)   |
+| Feb. 22 | (6)              | 4         | Activity-Based Costing and Cost Management | E4-15, 18; PB4-1, 2, 3, 4 | (E4-18; PB4-4)   |
+| Feb. 24 | (7)              | 4         | Activity-Based Costing and Cost Management | E4-15, 18; PB4-1, 2, 3, 4 | (E4-18; PB4-4)   |
+| Mar. 1  | (8)              | 5         | Cost Behavior                              | PB5-1, 2, 3, 4, 5, 6      | (PB5-3, 6)       |
+| Mar. 3  | (9)              | 5         | Cost Behavior                              | PB5-1, 2, 3, 4, 5, 6      | (PB5-3, 6)       |
+| Mar. 8  | (10)             | 6         | Cost-Volume-Profit   Analysis              | PB6-1, 2, 3, 4, 5, 6      | (PB5-3, 6)       |
+| Mar. 10 | (11)             | 6         | Cost-Volume-Profit   Analysis              | PB6-1, 2, 3, 4, 5, 6      | (PB5-3, 6)       |
+| Mar. 15 | (12)             | 7         | Incremental Analysis for ST Decision Making| PB7-1, 2, 3, 4, 6         | (PB5-3, 6)       |
+| Mar. 17 | (13)             | 7         | Incremental Analysis for ST Decision Making| PB7-1, 2, 3, 4, 6         | (PB5-3, 6)       |
+| Mar. 22 | (14)             | 1-7       | Exam Review                                | Practice Exam 1           |                  |
+| __Mar. 24__ | __Quiz 1__   | __1-7__   | On Canvas proctored via Zoom during class  |                           |                  |
+| __Mar. 29__ | __Practice Case__ |      | During class, turned in via Canvas         |                           |                  |
+| (No class on Mar. 31)    | |           |                                            |                           |                  |
+| (No class on Apr. 5)     | |           |                                            |                           |                  |
+| Apr. 7  | (16)             | 8         | Budgetary Planning                         | PB8-1, 2, 3, 4, 5, 6      | (PB8-3,6)        |
+| Apr. 12 | (17)             | 8         | Budgetary   Planning                       | PB8-1, 2, 3, 4, 5, 6      | (PB8-3,6)        |
+| Apr. 14 | (18)             | 9         | Standard   Costing and Variances           | PB9-1, 2, 4, 5, 7         | (PB9-2, 7)       |
+| Apr. 19 | (19)             | 9         | Standard   Costing and Variances           | PB9-1, 2, 4, 5, 7         | (PB9-2, 7)       |
+| Apr. 21 | (20)             | 10        | Decentralized   Performance Evaluation     | PB10-1, 2, 3, 4, 5        | (PB10-3, 5)      |
+| Apr. 26 | (21)             | 10        | Decentralized   Performance Evaluation     | PB10-1, 2, 3, 4, 5        | (PB10-3, 5)      |
+| Apr. 28 | (22)             | 11        | Capital   Budgeting                        | PB11-1, 2, 4, 5, 7        | (PB11-2, 7)      |
+| May 3   | __Quiz 2__       | 8-11      | On Canvas proctored via Zoom during class  |                           |                  |
+| May 5   | __Final Case__   |           | During class, turned in via Canvas         |                           |                  |
