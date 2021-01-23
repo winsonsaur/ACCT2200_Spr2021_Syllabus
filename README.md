@@ -19,13 +19,13 @@ _Preliminary until start of semester_
 |__Sections:__ | __Times and Locations__ |
 | L13: | Monday/Wednesday 09:00 - 10:20 |
 |       | Room: TBD |
-|       | Zoom: TBD |
+|       | Zoom: https://hkust.zoom.us/meeting/register/tJYof-yqrDspHtVb0-rCxYg7WAddfrfHLRWp  |
 | L12: | Monday/Wednesday 10:30 - 11:50 |
 |       | Room: TBD |
-|       | Zoom: TBD |
+|       | Zoom: https://hkust.zoom.us/meeting/register/tJIodO6qrjIrH9xqEV9pMBY1fmOED-oQOcrQ  |
 | L14: | Monday/Wednesday 12:00 - 13:20 |
 |       | Room: TBD |
-|       | Zoom: TBD |
+|       | Zoom: https://hkust.zoom.us/meeting/register/tJAocOqprDojE91u_m-FD0JI3_4pagE7bJP9 |
 
 
 # Course Objectives
