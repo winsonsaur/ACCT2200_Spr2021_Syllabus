@@ -90,6 +90,7 @@ Note the following facts about the exam:
 # Grading Scale:
 
 Points on all work will be reweighted as shown above and graded as shown
+
 |Grade|%|
 |---|---|
 |A+ |	97.00% - 100% |
