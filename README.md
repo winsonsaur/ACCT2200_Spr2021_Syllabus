@@ -58,7 +58,7 @@ The textbook provides a conceptual foundation for the course by introducing the 
 
 2.	__Class Preparation:__ The general approach of this course is lecture, discussions, problem-solving, and assignments. Students who read the textbook or slides prior to classes will benefit more from the class. A very good guidance for your self-study is the “demonstration cases” at the end of each chapter in the textbook.
 
-3.	__Ask questions on Canvas Discussion Board:__ Please use the discussion board on Canvas to ask questions related to course materials. __I will NOT answer such questions by email.__ The TA and I will check the discussion board regularly. Students are _encouraged_ to reply to other students’ questions on Canvas as part of a supportive learning environment. 5% of your grade will be based upon the frequency and quality of your Canvas discussions, infrequent or low quality posts will not recieve full credit.  
+3.	__Ask questions on Canvas Discussion Board:__ Please use the discussion board on Canvas to ask questions related to course materials. __I will NOT answer such questions by email.__ The TA and I will check the discussion board regularly. Students are _encouraged_ to reply to other students’ questions on Canvas as part of a supportive learning environment. 10% of your grade will be based upon the frequency and quality of your Canvas discussions, infrequent or low quality posts will not recieve full credit.  
 
 4.	__Practice Problems:__ A set of problems from the textbook are recommended for your practice. These problems aim to improve your understanding of and familiarity with the topics. You are __strongly__ encouraged to do additional practice in preparing for the quizzes/exams. Practice problem solutions are posted on Canvas.
 
