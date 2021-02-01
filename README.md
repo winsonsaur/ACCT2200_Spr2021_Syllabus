@@ -41,7 +41,7 @@ Upon the completion of this course, you should be able to:
 
 3. Discuss the fundamental principles underlying managerial accounting in the context of the tools and techniques that are covered in the course.
 
-4. Evaluate available accounting information and provide _original_ recommendations with respect to a business decision.
+4. Evaluate available accounting information and provide _original_ recommendations for real business decisions.
 
 # Textbook and Supplementary Readings
 
